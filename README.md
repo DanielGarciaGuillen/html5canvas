@@ -30,6 +30,7 @@ canvas.height = window.innerHeight;
 let lastX = 0;
 let lastY = 0;
 ```
+* Update last position with `[lastX , lastY] =[e.offsetX, e.offsetY];`
 
 ## Built With
 
