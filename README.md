@@ -14,7 +14,7 @@ Click mouse and move it to enjoy a colorful experience.
 
 ## Learnings
 
-* How to use basic canvas with
+* How to use basic canvas with:
 
 ```
 const canvas = document.querySelector("#draw");
@@ -22,10 +22,10 @@ const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 ```
-* How to not draw while moving mouse with
+* How to not draw while moving mouse with:
 `let isDrawing = false`
 
-* How to stablish an starting point when drawing
+* How to stablish an starting point when drawing:
 ```
 let lastX = 0;
 let lastY = 0;
