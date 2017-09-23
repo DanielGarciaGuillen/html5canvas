@@ -14,7 +14,14 @@ Click mouse and move it to enjoy a colorful experience.
 
 ## Learnings
 
-* 
+* How to use basic canva with
+
+```
+const canvas = document.querySelector("#draw");
+const ctx = canvas.getContext('2d');
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+```
 
 ## Built With
 
