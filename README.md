@@ -25,6 +25,12 @@ canvas.height = window.innerHeight;
 * How to not draw while moving mouse with
 `let isDrawing = false`
 
+* How to stablish an starting point when drawing
+```
+let lastX = 0;
+let lastY = 0;
+```
+
 ## Built With
 
 * Vanilla Javascript
