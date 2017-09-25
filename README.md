@@ -4,7 +4,7 @@ This is an HTML5 Canvas where you can paint. Based on the 30 days Javascript cha
 
 ## Getting Started
 
-Click mouse and move it to enjoy a colorful experience.
+Click your mouse and move it to enjoy a colorful experience =).
 
 ## Demo
 
