@@ -1,10 +1,10 @@
 # Project Title
 
-This is an HTML5 Canvas where you can paint. Based on the 30 days Javascript challenge.
+This is an HTML5 Canvas where you can paint, based on the 30 days Javascript challenge.
 
 ## Getting Started
 
-Click mouse and move it to enjoy a colorful experience.
+Click your mouse and move it to enjoy a colorful experience =).
 
 ## Demo
 
